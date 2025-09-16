@@ -211,7 +211,7 @@ begin
   TDataSetSerializeConfig.GetInstance.CaseNameDefinition := TCaseNameDefinition.cndLower;
 
   // ajusta posicionamento do retangulo animado
-  AnimeRCT.Position.X := HomeLYT.Position.X;
+   ContentTBC.ActiveTab := HomeTBC;
 
   //grava temporariamente o ususario de teste,
   //até criarmos a parte que identifica o usuario no APP
