@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/13 10:21:30.000.971,=C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/13 10:23:06.000.915,C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\ClinicPlus.Form.pas=C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/13 10:23:06.000.915,C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\ClinicPlus.Form.fmx=C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/05/13 10:23:18.000.675,C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\ClinicPlusApp.dproj=C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/05/13 10:49:04.000.087,D:\3 ano EM\Programação Mobile\App clinic\ClinicPlus.Form.fmx=C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\ClinicPlus.Form.fmx</Transaction>
+    <Transaction>2025/05/13 10:49:04.000.087,D:\3 ano EM\Programação Mobile\App clinic\ClinicPlus.Form.pas=C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\ClinicPlus.Form.pas</Transaction>
+    <Transaction>2025/05/13 10:49:39.000.997,D:\3 ano EM\Programação Mobile\App clinic\ClinicPlusApp.dproj=C:\Users\Eletro\Documents\Embarcadero\Studio\Projects\ClinicPlusApp.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
